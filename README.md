@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sankhani-Wanninayake
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning ICT
+- 💞️ I’m looking to collaborate on Github
